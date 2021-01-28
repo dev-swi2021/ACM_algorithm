@@ -3,10 +3,10 @@
 python file로 정리  
 
 [수학]  
-1712, 2869  
+[1712](https://github.com/dev-swi2021/ACM_algorithm/blob/main/1712.py),[2869](https://github.com/dev-swi2021/ACM_algorithm/blob/main/2869.py)  
 
 [1차원 배열]  
-4344
+[4344](https://github.com/dev-swi2021/ACM_algorithm/blob/main/4344.py)
 
 [DFS & BFS]  
 1206, 2606, 
