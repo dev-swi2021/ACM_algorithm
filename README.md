@@ -20,6 +20,6 @@ python file로 정리
 
 
 ## 프로그래머스  
-[짝지어제거하기]  
+[짝지어제거하기](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0211.py),  
 [예상대진표]  
 [단어퍼즐]  
