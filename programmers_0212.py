@@ -40,3 +40,13 @@ def solution(numbers, hand):
                 answer += 'L'
                 cur_lhand = number_pos[str_num]
     return answer
+
+# 테스트(데모)
+number = [[1,3,4,5,8,2,1,4,5,9,5], [7,0,8,2,8,3,1,5,7,6,2], [1,2,3,4,5,6,7,8,9,0]]
+hand = ["right", "left","right"]
+result = ["LRLLLRLLRRL", "LRLLRRLLLRR", "LLRLLRLLRL"]
+
+for n,h,r in zip(number, hand, result):
+    res = solution(n,h)
+    # 알고리즘 결과랑 실제 결과랑 비교하여 맞는 답인지 틀린 답인지 확인하는 부분
+    print("{}, {} --> {}".format(res, r, res==r))
