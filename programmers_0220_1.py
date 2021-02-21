@@ -3,6 +3,7 @@ def solution(n, arr1, arr2):
     
     for a1, a2 in zip(arr1, arr2):
         b1, b2 = bin(a1).replace('0b',''), bin(a2).replace('0b','')
+        # a | b로 변경 가능
         if len(b1)!= n:
             b1 = '0'*(n-len(b1))+b1
         if len(b2)!= n:
