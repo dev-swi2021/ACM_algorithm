@@ -20,9 +20,11 @@ python file로 정리
 
 
 ## 프로그래머스  
+### Level 1
 [짝지어제거하기](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0211.py),  
 [키패드 누르기](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0212.py),  
 [다트게임](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0220.py),  
-[비밀지도](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0220_1.py),  
-[예상대진표]  
-[단어퍼즐]  
+[비밀지도](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0220_1.py)  
+
+### Level 2
+[튜플](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222.py)  
