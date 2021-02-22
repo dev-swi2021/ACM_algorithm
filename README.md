@@ -27,4 +27,5 @@ python file로 정리
 [비밀지도](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0220_1.py)  
 
 ### Level 2
-[튜플](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222.py)  
+[튜플](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222.py),  
+[1차 뉴스 클러스터링](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222_1.py)  
