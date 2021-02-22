@@ -17,7 +17,7 @@ def solution(str1, str2):
         
     return 65536
     
-    
+# Test
 str1 = ['FRANCE', 'handshake', 'aa1+aa2', 'E=M*C^2', 'ABDDD']
 str2 = ['french', 'shake hands', 'AAAA12', 'e=m*c^2', 'DDEFGHH']
 answer = [16384, 65536, 43690, 65536, 7281]
