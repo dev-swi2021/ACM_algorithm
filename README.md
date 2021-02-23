@@ -8,7 +8,8 @@ python file로 정리
 [2869](https://github.com/dev-swi2021/ACM_algorithm/blob/main/2869.py)  
 
 ### 정렬
-[10989](https://github.com/dev-swi2021/ACM_algorithm/blob/main/10989.py)  
+[10989](https://github.com/dev-swi2021/ACM_algorithm/blob/main/10989.py),  
+[1181](https://github.com/dev-swi2021/ACM_algorithm/blob/main/1181.py)  
 
 ### 1차원 배열  
 [4344](https://github.com/dev-swi2021/ACM_algorithm/blob/main/4344.py)  
