@@ -3,6 +3,9 @@
 python file로 정리  
 ## [백준 알고리즘]
 
+## 문자열
+[1316](https://github.com/dev-swi2021/ACM_algorithm/blob/main/1316.py)
+
 ### 수학
 [1712](https://github.com/dev-swi2021/ACM_algorithm/blob/main/1712.py),
 [2869](https://github.com/dev-swi2021/ACM_algorithm/blob/main/2869.py)  
