@@ -36,3 +36,4 @@ python file로 정리
 ### Level 2
 [튜플](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222.py),  
 [1차 뉴스 클러스터링](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222_1.py)  
+[순위 검색](https://github.com/dev-swi2021/algorithm/blob/main/rank_search.py)
