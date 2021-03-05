@@ -35,5 +35,8 @@ python file로 정리
 
 ### Level 2
 [튜플](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222.py),  
-[1차 뉴스 클러스터링](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222_1.py)  
-[순위 검색](https://github.com/dev-swi2021/algorithm/blob/main/ranking_search.py)
+[1차 뉴스 클러스터링](https://github.com/dev-swi2021/algorithm/blob/main/programmers_0222_1.py),  
+[순위 검색](https://github.com/dev-swi2021/algorithm/blob/main/ranking_search.py)  
+
+### Level 3
+[합승택시요금](https://github.com/dev-swi2021/algorithm/blob/main/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.py),  
