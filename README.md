@@ -29,6 +29,9 @@ python file로 정리
 ### DP(다이나믹 프로그래밍)  
 [2579](https://github.com/dev-swi2021/ACM_algorithm/blob/main/14502.py)(진행중),  
 
+### BackTracking  
+[9663](https://github.com/dev-swi2021/ACM_algorithm/blob/main/9633.py)
+[15649-15652](https://github.com/dev-swi2021/ACM_algorithm/blob/main/15649-15652.py)
 
 ## 프로그래머스  
 ### Level 1
@@ -44,4 +47,4 @@ python file로 정리
 
 ### Level 3
 [합승택시요금](https://github.com/dev-swi2021/algorithm/blob/main/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.py),  
-[카드짝맞추기]
+[카드짝맞추기](https://github.com/dev-swi2021/algorithm/blob/main/%EC%B9%B4%EB%93%9C%EC%A7%9D%EB%A7%9E%EC%B6%94%EA%B8%B0.py)
