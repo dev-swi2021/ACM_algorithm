@@ -1,2 +1,2 @@
 language = "bash"
-run = "python 카드짝맞추기.py"
+run = "python 11725.py"
