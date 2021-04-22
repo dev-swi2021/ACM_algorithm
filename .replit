@@ -1,6 +1,3 @@
 language = "bash"
-<<<<<<< HEAD
-run = "python 11725.py"
-=======
-run = "python 15649-15652.py"
->>>>>>> c1159e63f0287cd1e30ad91212eab5096f01604f
+run = "python 1967.py"
+
