@@ -29,6 +29,7 @@ python file로 정리
 [2667](https://github.com/dev-swi2021/ACM_algorithm/blob/main/2667.py),
 [1012](https://github.com/dev-swi2021/ACM_algorithm/blob/main/1012.py),  
 [7562](https://github.com/dev-swi2021/ACM_algorithm/blob/main/7562.py),
+[11724](https://github.com/dev-swi2021/ACM_algorithm/blob/main/11724.py),
 [14502](https://github.com/dev-swi2021/ACM_algorithm/blob/main/14502.py)  
 
 ### DP(다이나믹 프로그래밍)  
